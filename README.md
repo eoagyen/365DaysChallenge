@@ -16,3 +16,4 @@ I created this repository to document my tech journey for the year. This year is
 |9  |I learnt and revised key concepts on data validation, conditional formatting and VLOOKUP.|
 |10 |I worked on practice exercises and the final assessment to complete the course Analyze Data to Answer Questions in the Google Data Analytics Professional Certificate.|
 |11,12,13,14,15|Life happened! Unfortunately, I got sick and was focussing on recovering fully.|
+|16 |I'm fully recovered now, and today I assisted my friend with a task he was solving using the Pandas library.|
