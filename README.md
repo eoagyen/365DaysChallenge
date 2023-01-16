@@ -15,3 +15,4 @@ I created this repository to document my tech journey for the year. This year is
 |8  |I began the fifth course in the Google Data Analytics Professional Certificate (Analyze Data to Answer Questions) and looked at what the analysis process entails.|
 |9  |I learnt and revised key concepts on data validation, conditional formatting and VLOOKUP.|
 |10 |I worked on practice exercises and the final assessment to complete the course Analyze Data to Answer Questions in the Google Data Analytics Professional Certificate.|
+|11,12,13,14,15|Life happened! Unfortunately, I got sick and was focussing on recovering fully.|
