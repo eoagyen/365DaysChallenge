@@ -22,3 +22,4 @@ I created this repository to document my tech journey for the year. This year is
 |20 |I continued with the course Share Data Through the Art of Visualization. Key thing I learnt or let me say revised was the 3 data storytelling steps. The steps include engaging your audience, creating compelling visuals and telling the story in an interesting narrative.|
 |21 |Didn't do much today as my plan for the day was to rest. I just read some materials to prep me for the software engineering training program I start in the new week.|
 |22 |Couldn't do much again today as I had my lights out for most of the day. Just got myself more acquainted to the software engineering training program I begin today.|
+|23,24,25|I have used the past three days to catch up with the orientation exercises for the software engineering program.|
