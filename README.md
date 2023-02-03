@@ -2,7 +2,7 @@
 
 I created this repository to document my tech journey for the year. This year is pivotal for developing my data science skills, and I also plan to start a journey in software engineering. 
 
-## Week 1 
+## January 
 |Day|Activity|
 |---|--------|
 |1  |To kick start the challenge, I used the time to list the certifications I want to get this year, the nature of the projects to work on, and completed the application for a software engineering programme. I plan to devote at least 2 hours every day to keep developing. For the first few weeks of the year, I will continue with the Google Data Analytics Professional Certificate and start learning for the Microsoft Power Platform App Maker certification.|
@@ -23,3 +23,11 @@ I created this repository to document my tech journey for the year. This year is
 |21 |Didn't do much today as my plan for the day was to rest. I just read some materials to prep me for the software engineering training program I start in the new week.|
 |22 |Couldn't do much again today as I had my lights out for most of the day. Just got myself more acquainted to the software engineering training program I begin today.|
 |23,24,25|I have used the past three days to catch up with the orientation exercises for the software engineering program.|
+|26-31|I was not able to study for these days. Mainly because of the time constraints I faced. Also, I had to drop out of the software engineering program I joined. I plan to get back to learning stuff on software engineering later in the year.|
+
+
+## February 
+|Day|Activity|
+|---|--------|
+|1-2|February is here, and I used the first two days to get things in place regarding my learning plans for the month. I plan to finish the Google Data Analytics Professional Certificate this month.|
+|3  |Continued with the Share Data Through the Art of Visualization and completed it. I move on to the next course Data Analysis with R Programming. Excited about this course because I know nothing about R Programming. Glad I will have a basic knowledge of R through this course.|
