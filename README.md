@@ -27,9 +27,10 @@ I created this repository to document my tech journey for the year. This year is
 
 
 ## February 
-|Day|Activity|
-|---|--------|
+|Day  |Activity|
+|---  |--------|
 |1-2  |February is here, and I used the first two days to get things in place regarding my learning plans for the month. I plan to finish the Google Data Analytics Professional Certificate this month.|
 |3	  |Continued with the Share Data Through the Art of Visualization and completed it. I move on to the next course Data Analysis with R Programming. Excited about this course because I know nothing about R Programming. Glad I will have a basic knowledge of R through this course.|
 |4-15 |For the past 12 days, I have not been able to log my progress. I have been working on the Data Analysis with R Programming course. It's been great to learn R so far.|
-|16   |I learnt about using the separate(), unite(), and mutate() functions to transform data.|
+|16   |I learned about using the separate(), unite(), and mutate() functions to transform data.|
+|17   |I learned about the bias() function, which is a part of the SimDesign package in R. This function calculates the bias of an estimator. That is how much the estimator tends to over- or under-estimate the true value of the parameter on average.|
