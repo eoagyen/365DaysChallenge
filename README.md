@@ -35,3 +35,5 @@ I created this repository to document my tech journey for the year. This year is
 |16   |I learned about using the separate(), unite(), and mutate() functions to transform data.|
 |17   |I learned about the bias() function, which is a part of the SimDesign package in R. This function calculates the bias of an estimator. That is how much the estimator tends to over- or under-estimate the true value of the parameter on average.|
 |18, 19|Looked at creating visualizations using ggplot2. I created scatterplots as part of my practice exercises.|
+|20, 21|I learned how to add aesthetics and facets to visualizations. Hands-on activities were also completed to better understand the process and the syntax required.|
+|22   |I moved on to learn how to add annotations such as titles and text using the labs() and annotate() functions. To round out the visualization section, I looked into how to save the visuals that were created.|
