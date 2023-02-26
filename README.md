@@ -37,3 +37,4 @@ I created this repository to document my tech journey for the year. This year is
 |18, 19|Looked at creating visualizations using ggplot2. I created scatterplots as part of my practice exercises.|
 |20, 21|I learned how to add aesthetics and facets to visualizations. Hands-on activities were also completed to better understand the process and the syntax required.|
 |22   |I moved on to learn how to add annotations such as titles and text using the labs() and annotate() functions. To round out the visualization section, I looked into how to save the visuals that were created.|
+|23-26|Completed the Data Analysis with R Programming course by learning about documentation and reports. Learned how to use R markdown in particular.|
