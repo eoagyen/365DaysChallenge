@@ -38,3 +38,4 @@ I created this repository to document my tech journey for the year. This year is
 |20, 21|I learned how to add aesthetics and facets to visualizations. Hands-on activities were also completed to better understand the process and the syntax required.|
 |22   |I moved on to learn how to add annotations such as titles and text using the labs() and annotate() functions. To round out the visualization section, I looked into how to save the visuals that were created.|
 |23-26|Completed the Data Analysis with R Programming course by learning about documentation and reports. Learned how to use R markdown in particular.|
+|27-28|Began work on the final capstone project. Progress has been slow, but I'm hoping to get it done in the next couple of days.|
