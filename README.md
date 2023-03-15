@@ -39,3 +39,11 @@ I created this repository to document my tech journey for the year. This year is
 |22   |I moved on to learn how to add annotations such as titles and text using the labs() and annotate() functions. To round out the visualization section, I looked into how to save the visuals that were created.|
 |23-26|Completed the Data Analysis with R Programming course by learning about documentation and reports. Learned how to use R markdown in particular.|
 |27-28|Began work on the final capstone project. Progress has been slow, but I'm hoping to get it done in the next couple of days.|
+
+
+## January 
+|Day|Activity|
+|---|--------|
+|1-9|I spent the first nine days of the month completing the Google Data Analytics Professional Course. Glad I was able to finally complete it, and I learned new stuff in the process.|
+|10-14|I was not well and spent these days recovering. My health is everything to me. Without good health, we cannot achieve all the goals we set for ourselves.| 
+|15  ||
