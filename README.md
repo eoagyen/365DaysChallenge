@@ -41,9 +41,9 @@ I created this repository to document my tech journey for the year. This year is
 |27-28|Began work on the final capstone project. Progress has been slow, but I'm hoping to get it done in the next couple of days.|
 
 
-## January 
+## March 
 |Day|Activity|
 |---|--------|
 |1-9|I spent the first nine days of the month completing the Google Data Analytics Professional Course. Glad I was able to finally complete it, and I learned new stuff in the process.|
 |10-14|I was not well and spent these days recovering. My health is everything to me. Without good health, we cannot achieve all the goals we set for ourselves.| 
-|15  ||
+|15 |I have gained free access to Datacamp and Coursera for a limited period. I plan to use this opportunity to enhance my skills in working with data. I will also be working on projects and then start intensive learning for the PL 100: Microsoft Power Platform App Maker certification.|
