@@ -49,3 +49,4 @@ I created this repository to document my tech journey for the year. This year is
 |15 |I have gained free access to Datacamp and Coursera for a limited period. I plan to use this opportunity to enhance my skills in working with data. I will also be working on projects and then start intensive learning for the PL 100: Microsoft Power Platform App Maker certification.|
 |16-26|I forgot to update my progress. Will be doing that consistently in April.|
 |27 |I practiced with the set_index, reset_index, and sort_index methods in Pandas. Also looked at multi-level index (also known as hierarchical index)|
+|28 |Continued to practice slicing and subsetting with .loc and .iloc methods in Pandas|
