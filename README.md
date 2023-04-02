@@ -50,3 +50,11 @@ I created this repository to document my tech journey for the year. This year is
 |16-26|I forgot to update my progress. Will be doing that consistently in April.|
 |27 |I practiced with the set_index, reset_index, and sort_index methods in Pandas. Also looked at multi-level index (also known as hierarchical index).|
 |28 |Continued to practice slicing and subsetting with .loc and .iloc methods in Pandas.|
+|29-30|Worked on practice problems using .loc and .iloc methods on pivot tables in Pandas|
+|31 |Took a break to end the first quarter of the year.|
+
+
+## April 
+|Day|Activity|
+|---|--------|
+|1-2|I reviewed my progress for the first quarter and planned for the second quarter of the year. I must work hard and stay consistent to achieve a lot this quarter. I'll have a great April!|
