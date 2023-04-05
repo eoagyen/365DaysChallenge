@@ -1,6 +1,6 @@
 # #365DaysChallenge
 
-I created this repository to document my tech journey for the year. This year is pivotal for developing my data science skills, and I also plan to start a journey in software engineering. 
+I created this repository to document my tech journey for the year. This year is pivotal for developing my data analytics/science skills, and my programming skills. 
 
 ## January 
 |Day|Activity|
@@ -58,3 +58,5 @@ I created this repository to document my tech journey for the year. This year is
 |Day|Activity|
 |---|--------|
 |1-2|I reviewed my progress for the first quarter and planned for the second quarter of the year. I must work hard and stay consistent to achieve a lot this quarter. I'll have a great April!|
+|3  |I learned and practiced creating and visualizing DataFrames. I looked at how to create visuals such as a scatter plot, bar chart, line plot, histogram, and box plot. I also looked at how to handle missing values with the .isna method. I captured everything by reading and writing CSV files with Pandas.|
+|4  |To develop my programming skills in Python, I am reading a famous Python book (Python Crash Course by Eric Matthes). I've completed the first chapter, and I'm midway through the second chapter. The interesting thing I picked up is using underscores in numbers. This was something I didn't know about, so it was fun finding out about it. Another key point was using capital letters for constants. An example of the underscores in numbers in image below. <p align="center"> <picture>Example: ![image](https://user-images.githubusercontent.com/74061999/229935230-5dd84128-fec4-4db9-b287-1fc90cf42ae8.png)</picture> </p>|
