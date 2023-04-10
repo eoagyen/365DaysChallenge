@@ -62,7 +62,7 @@ I created this repository to document my tech journey for the year. This year is
 |4  |To develop my programming skills in Python, I am reading a famous Python book (Python Crash Course by Eric Matthes). I've completed the first chapter, and I'm midway through the second chapter. The interesting thing I picked up is using underscores in numbers. This was something I didn't know about, so it was fun finding out about it. Another key point was using capital letters for constants. An example of the underscores in numbers in image below. <p align="center"> <picture>Example: ![image](https://user-images.githubusercontent.com/74061999/229935230-5dd84128-fec4-4db9-b287-1fc90cf42ae8.png)</picture> </p>|
 |5  |I planned my studies for the evening but unfortunately had a power cut and did not study.|
 |6  |I was also not able to study today. I am glad about the upcoming holidays and expect to make good progress.|
-|7  ||
-|8  ||
-|9  ||
+|7  |I read about the Zen of Python. It is interesting, and I agree that simple is always better than complex.|
+|8  |Completed the first chapter of a book I'm reading on data analysis and decision-making.|
+|9  |Worked on a project investigating Netflix movies to determine if the duration of movies has decreased in recent years. This project is a guided project by Datacamp.|
 |10 |I learned how to merge DataFrames in Pandas with an inner join. I then looked at how to combine multiple DataFrames into a single DataFrame.The merge() method makes it possible to do this and has the suffixes attribute, which is very helpful when a column is present in both DataFrames you are combining. I also continued with the Python book and went through lists today: how to create them, add elements to a list using the append() and insert() methods, and the difference between these two. Further read and practiced how to remove elements from a list using the del statement, pop() method, and remove() method. I was glad to understand when to use either of these three. Good progress today. We continue tomorrow. Good Easter break and holidays overall.|
