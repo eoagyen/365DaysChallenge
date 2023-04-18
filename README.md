@@ -69,3 +69,4 @@ I created this repository to document my tech journey for the year. This year is
 |11 |Continued with the Python book by looking at sorting a list permanently with the sort() method or temporarily with the sorted() function. I further looked at how to reverse the order of a list using the reverse() method.|
 |12-16|I had a break and some challenges that prevented me from continuing my streak.|
 |17 |Back now and time to keep a very long streak going. I looked at how to merge tables with different join types. I learned about using the left, right, and outer joins.|
+|18 |I looked at and practiced how to merge a DataFrame to itself and also how to merge on indexes.|
