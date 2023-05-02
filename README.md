@@ -70,3 +70,10 @@ I created this repository to document my tech journey for the year. This year is
 |12-16|I had a break and some challenges that prevented me from continuing my streak.|
 |17 |Back now and time to keep a very long streak going. I looked at how to merge tables with different join types. I learned about using the left, right, and outer joins.|
 |18 |I looked at and practiced how to merge a DataFrame to itself and also how to merge on indexes.|
+
+
+## May 
+|Day|Activity|
+|---|--------|
+|1  |I plan to use this month to build good habits and get consistent in my upskilling. I started the Google Advanced Data Analytics Professional Certificate as part of my upskilling for the second quarter of the year at work.|
+|2  |I continued with the Foundations of Data Science course, the first course in the Google Advanced Data Analytics Professional Certificate. Also, I started reading Chapter 2 of Business Analytics Data Analysis and Decision Making by S. Christian Albright and Wayne L. Winston, on describing the distribution of a single variable. Read on concepts such as populations and samples, datasets, variables, observations, and types of data.|
